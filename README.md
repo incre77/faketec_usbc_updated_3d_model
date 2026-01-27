@@ -11,6 +11,7 @@ Also do note there is this faketec v5 custom fork https://github.com/jtljac/fake
 (edit: Created this openscad script which will modify the front case to shift the type-c port by 2.50mm to allow fakeTec v5 to fit. https://gist.github.com/mofosyne/48c85aaf8f9d6235b8dff4756ea68b25) (edited)"
 
 <img width="1376" height="576" alt="Captura desde 2026-01-27 14-59-35" src="https://github.com/user-attachments/assets/cfac7e36-be9d-4105-b552-5d6793ba2fb0" />
+Grey=updated
 
 All the original files are in the zip file and the updated front is front_faketec_v5_usbc_updated.stl
 
