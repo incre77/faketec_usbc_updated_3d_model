@@ -1,5 +1,7 @@
 # faketec_usbc_updated_3d_model
 <img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/16d46309-b1bb-49d5-a842-21073afb39ad" />
+<img width="1134" height="808" alt="Captura desde 2026-01-27 15-33-13" src="https://github.com/user-attachments/assets/81cd1e6f-7620-49c5-a3de-fc15e6a74b61" />
+
 
 A 3d model for faketec with usbc updated to 2026.
 
