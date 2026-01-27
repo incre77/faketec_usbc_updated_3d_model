@@ -1,7 +1,8 @@
-# faketec_usbc_updated
+# faketec_usbc_updated_3d_model
 <img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/16d46309-b1bb-49d5-a842-21073afb39ad" />
 
-A 3d model for faketec with usbc updated to 2026
+A 3d model for faketec with usbc updated to 2026.
+
 I found this model from:https://www.printables.com/model/1102989-faketec-nrf52-meshtastic-case-with-encoderbuzzergp
 
 And i aplied this scad script i saw in this comment:
