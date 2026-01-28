@@ -9,7 +9,8 @@ bottom_port_remove = true;
 
 // This is the size of the header pin offset
 // Dev Note: This is removed after 
-header_pin_offset = 2.5;
+//header_pin_offset = 2.5;
+header_pin_offset = 1;
 
 difference()
 {
