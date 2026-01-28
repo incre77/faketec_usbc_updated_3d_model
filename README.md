@@ -1,4 +1,7 @@
 # faketec_usbc_updated_3d_model
+
+Updated:28-jan-2026 i modified scad file to do an offset of 1mm instead 2.5 cos i think is the correct offset. I updated the stl front updated with that mod.
+
 <img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/16d46309-b1bb-49d5-a842-21073afb39ad" />
 <img width="1134" height="808" alt="Captura desde 2026-01-27 15-33-13" src="https://github.com/user-attachments/assets/81cd1e6f-7620-49c5-a3de-fc15e6a74b61" />
 
